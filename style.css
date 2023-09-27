@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-1{
+    margin-top: 20px;
+    padding: 10px;
+    display: flex;
+    border: 2px solid rgb(236, 234, 234);
+    border-radius: 5px;
+    box-shadow: 0 8px 6px -6px rgb(236, 234, 234);
+}
+.div-1{
+    margin-left: 10px;
+    padding-right: 20px;
+    color: grey;
+}
+.div-2{
+    color: grey;
+}
+.fi-rr-envelope,.fi-rs-comment-alt{
+    color: red;
+}
+.div-3{
+     margin-left: 900px;
+}
+.fi-brands-facebook,.fi-brands-twitter,.fi-brands-linkedin,.fi-brands-github{
+    padding-right: 15px;
+    font-size: 30px;
+    cursor: pointer;
+    color: grey;
+}
+.main-2{
+    display: flex;
+    margin-top: 40px;
+}
+.div-5{
+    list-style: none;
+    display: flex;
+    margin-left: 700px;
+}
+.villa{
+    margin-left: 50px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.li1,.li2,.li3,.li4{
+    padding-right: 20px;
+    color: grey;
+}
+a{
+    text-decoration: none;
+}
+.div-6{
+    margin-left: 80px;
+    border: 2px solid rgb(236, 234, 234);
+    border-radius: 12px;
+    background-color: black;
+    padding-right: 15px;
+    padding-left: 15px;
+    font-size: 15px;
+    cursor: pointer;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.schedule{
+    color: white;
+}
+.fi-rr-calendar{
+    padding-right: 10px;
+    color: red;
+}
+.main-3{
+    margin-top: 20px;
+    height: 590px;
+    background-image: url(images/villa.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.div-7{
+    font-weight: bolder;
+}
+.div-8{
+    padding-top: 250px;
+    padding-left: 280px;
+    font-family: 'Roboto Slab', serif;
+}
+.hurry{
+    font-family: 'Roboto Slab', serif;
+    font-size: 50px;
+    color: darkorange;
+}
